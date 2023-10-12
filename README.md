@@ -1,4 +1,4 @@
-This is a project that I'm working on at the moment. I divide this project into three parts: Data Analysis (EDA) by Python, Predictive Model by Python, and Data Visualization by Tableau. <br>
+This is a project that I'm working on at the moment. I divide this project into three parts: Data Analysis (EDA) by Python, Predictive Model by Python, and Data Visualization by Tableau. <br> A note will also be provided to explain some metrics and other terms in my predictive model. 
 
 
 # NBA-Player-Salary-Prediction
